@@ -33,12 +33,12 @@
 
 ## Get in Touch 🌐
 
-📧 Email: [mandasandeepreddy18@gmail.com](mailto:mandasandeepreddy18@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sandeep-reddy-manda/)  
-🔵 HackerRank: [Your HackerRank Profile](https://www.hackerrank.com/sandeepreddy18)  
-📷 Instagram: [Your Instagram Profile](https://www.instagram.com/sandeep.reddy.18/)  
-🎥 YouTube: [Your YouTube Channel](https://www.youtube.com/EpicMystery)  
-🎮 Steam: [Your Steam Profile](https://steamcommunity.com/id/EpicMystery/)  
-👾 Discord Server: [Your Discord Server Invite Link](https://discord.gg/invite/zDfcUFEt2v)  
+📧 [Email](mailto:mandasandeepreddy18@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-manda/)  
+🔵 [HackerRank](https://www.hackerrank.com/sandeepreddy18)  
+📷 [Instagram](https://www.instagram.com/sandeep.reddy.18/)  
+🎥 [YouTube](https://www.youtube.com/EpicMystery)  
+🎮 [Steam](https://steamcommunity.com/id/EpicMystery/)  
+👾 [Discord Server Invite Link](https://discord.gg/invite/zDfcUFEt2v)  
 📱 Discord: epicmystery  
 📸 Snapchat: sandeepreddy.18  
