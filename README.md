@@ -2,13 +2,13 @@
 
 🎓 Studied up to 10th class in **Little Woods School**  
 🎓 Completed 12th in **Subha Niketan School**  
-📚 Currently pursuing B.Tech in Computer Science at **Aditya Engineering College** (Expected Graduation: 2027)  
+📚 Currently pursuing B.Tech in Computer Science at **Aditya University (AU`27)**
 
 ## About Me
 
 👨‍💻 Passionate about coding in Python and C, with a focus on continuous learning and improvement.  
-🖥️ Tech enthusiast specializing in PC building and IT, always exploring new advancements in the field.  
-🎧 Enjoy frequent music listening; it's the soundtrack to my coding adventures!  
+🖥️ Tech enthusiast specializing in PC building and IT. 
+🎧 Enjoys frequent music listening.
 
 ## Projects
 
@@ -21,14 +21,16 @@
 - Utilized `Pillow` module for image manipulation.
 - Utilized Discord API to enable various moderation functionalities.
 
+  Some more coming soon...
+
 ## Gaming Interests 🎮
 
-🕹️ **Gaming Experience:** Explored various titles from PUBG Mobile (Esport player from 2019) to GTA V, Fall Guys, CS:GO, and more.  
+🕹️ **Gaming Experience:** Explored various titles from PUBG Mobile (Esport player from 2019) to Valorant, CS:GO,  GTA V, Fall Guys, and more.  
 🎯 **Esports Background:** Previous experience as an esports player in PUBG Mobile.
 
 ## Career Goals 🚀
 
-🌟 **Aspiring Software Professional:** Aiming for a prominent position in the software industry through continuous learning and innovation.  
+🌟 **Aspiring Software Professional:** Aiming for a prominent position in the software industry through continuous learning.  
 🏢 **Entrepreneurial Vision:** Dreaming of owning and operating a successful tech-oriented business.
 
 ## Get in Touch 🌐
@@ -40,5 +42,4 @@
 🎥 [YouTube](https://www.youtube.com/EpicMystery)  
 🎮 [Steam](https://steamcommunity.com/id/EpicMystery/)  
 👾 [Discord Server Invite Link](https://discord.gg/invite/zDfcUFEt2v)  
-📱 Discord: epicmystery  
-📸 Snapchat: sandeepreddy.18  
+📱 Discord: epicmystery
