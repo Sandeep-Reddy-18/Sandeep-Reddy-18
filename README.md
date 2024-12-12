@@ -37,6 +37,7 @@
 
 📧 [Email](mailto:mandasandeepreddy18@gmail.com)  
 🖥️ [GitHub](https://github.com/Sandeep-Reddy-18)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-manda/)  
 🔵 [HackerRank](https://www.hackerrank.com/sandeepreddy18)  
 📷 [Instagram](https://www.instagram.com/sandeep.reddy.18/)  
