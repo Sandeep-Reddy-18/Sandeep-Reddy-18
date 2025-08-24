@@ -1,47 +1,79 @@
-# Hi there, I'm Sandeep Reddy! 👋
+# Hi, I'm Sandeep Reddy Manda 👋
 
-🎓 Studied up to 10th class in **Little Woods School**  
-🎓 Completed 12th in **Subha Niketan School**  
-📚 Currently pursuing B.Tech in Computer Science at **Aditya University (AU`27)**
+🎓 **B.Tech in Computer Science & Engineering** (2023 – 2027) – Aditya Engineering College, Andhra Pradesh, India  
+📚 Completed 12th (CBSE) – Subha Niketan School, Kakinada  
+🎓 Completed 10th (CBSE) – Little Woods School, Kakinada  
+
+---
 
 ## About Me
 
-👨‍💻 Passionate about coding in Python and C, with a focus on continuous learning and improvement.  
-🖥️ Tech enthusiast specializing in PC building and IT. 
-🎧 Enjoys frequent music listening.
+👨‍💻 Passionate about **Python, C, Java, SQL, and IoT development**  
+🏠 Enthusiast in **automation, smart home solutions, and tech innovation**  
+🎮 Gamer and esports enthusiast  
+🚀 Continuously learning new technologies and building practical, real-world projects  
+
+---
 
 ## Projects
 
-### Mighty Macro - Retail Manager
-- Developed a Retail Manager application using Python with `tkinter` for the GUI.
-- Implemented MySQL for efficient data storage and retrieval.
+### BallotNXT – Biometric Voter Verification System
+- Developed a secure voter verification system integrating **fingerprint (SecuGen SDK) and facial recognition (Google Vision API)**  
+- Implemented **token-based workflows** for privacy and seamless pre-enrollment  
 
-### EpicBOT - Multipurpose Discord Moderation Bot
-- Created a Multipurpose Moderation Bot for Discord using Python.
-- Utilized `Pillow` module for image manipulation.
-- Utilized Discord API to enable various moderation functionalities.
+### IoT Appliance Control System
+- Built an **MQTT-based IoT control system** using ESP8266 (NodeMCU), Tasmota, and Home Assistant  
+- Enabled **Wi-Fi control with relay modules** while preserving manual switch usage and ensuring electrical safety  
 
-  Some more coming soon...
+### Smart Attendance Dashboard
+- Flask-based portal for **subject-wise analytics and live attendance tracking**  
+- Handles **5,000+ daily lookups** securely with SQLite, continuously updated  
 
-## Gaming Interests 🎮
+### Mighty Macro – Retail Management System
+- Python & Tkinter-based retail management app with **cashier billing, inventory, and customer tracking**  
+- Integrated **sales reports and charts** to analyze stock and revenue  
 
-🕹️ **Gaming Experience:** Explored various titles from PUBG Mobile (Esport player from 2019) to Valorant, CS:GO,  GTA V, Fall Guys, and more.  
-🎯 **Esports Background:** Previous experience as an esports player in PUBG Mobile.
+### EpicBOT – Multipurpose Discord Bot
+- Built a **Discord moderation and utility bot** using Python and Nextcord.py  
+- Features **image manipulation (Pillow)** and MySQL backend for user/server preferences  
 
-## Career Goals 🚀
+---
 
-🌟 **Aspiring Software Professional:** Aiming for a prominent position in the software industry through continuous learning.  
-🏢 **Entrepreneurial Vision:** Dreaming of owning and operating a successful tech-oriented business.
+## Skills
 
-## Get in Touch 🌐
+- **Programming & Scripting:** Python, SQL, Bash, C, Java  
+- **Automation & Testing:** Selenium  
+- **Web Development:** HTML, CSS, JavaScript, Flask  
+- **IoT & Automation:** NodeMCU (ESP8266), MQTT, Home Assistant  
+- **Databases:** MySQL, SQLite  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+## Certifications
+
+- **Oracle University:** Java Certified Foundations Associate  
+- **Certiport:** IT Specialist – HTML & CSS  
+- **Cisco Networking Academy (NETACAD):** Python Essentials 1, C & C++ Programming Essentials, Operating Systems Basics, HTML/CSS/JS Essentials 1 & 2  
+- **Spoken Tutorial Project (IIT Bombay):** Linux Training  
+- **Infosys Springboard:** Introduction to NLP/AI/Deep Learning, HTML5, CSS3, JS, Networking & Web Technology  
+
+---
+
+## Internships
+
+**Technical Hub Pvt Ltd** – Summer Intern (Full Stack Development, React Native)  
+- Hands-on experience with **React Native, HTML/CSS, responsive layouts**, and full-stack development practices  
+- Developed professional skills including **responsibility, collaboration, and problem-solving**  
+
+---
+
+## Connect with Me
 
 📧 [Email](mailto:mandasandeepreddy18@gmail.com)  
-🖥️ [GitHub](https://github.com/Sandeep-Reddy-18)
+🔗 [Portfolio](https://sandyy.in) | [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-manda/) | [GitHub](https://github.com/Sandeep-Reddy-18)  
+🟦 [HackerRank](https://www.hackerrank.com/sandeepreddy18)  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-manda/)  
-🔵 [HackerRank](https://www.hackerrank.com/sandeepreddy18)  
-📷 [Instagram](https://www.instagram.com/sandeep.reddy.18/)  
-🎥 [YouTube](https://www.youtube.com/EpicMystery)  
-🎮 [Steam](https://steamcommunity.com/id/EpicMystery/)  
-👾 [Discord Server Invite Link](https://discord.gg/invite/zDfcUFEt2v)  
-📱 Discord: epicmystery
+---
+
+*“Building practical projects while exploring new technologies is my way of learning and contributing to the tech world.”*
