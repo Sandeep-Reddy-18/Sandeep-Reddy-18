@@ -48,9 +48,6 @@ Git, GitHub, Linux, Docker, PM2, Cloudflare Tunnels
 ## Achievements
 
 * 4th Place — Project Space 2026 (160 Teams)
-* Winner — Technical Hub Monthly Coding Contest
-* Winner — Technical Hub Bi-Weekly Coding Contest
-* Winner — Technical Hub Tri-Weekly Coding Contest
 
 ## Connect With Me
 
